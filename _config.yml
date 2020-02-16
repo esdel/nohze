@@ -1,0 +1,29 @@
+title:              "ZE RECORD"
+tagline:            "슬쩍 알아두면, 조금 더 즐거워지는 것들"
+email:              "esdeloj@gmail.com"
+description:        "제 삶을 즐겁게 하는 여행 정보, 그리고 마케팅에 대한 노하우를 기록힙니다."
+author:             "ze"
+baseurl:            "/"
+url:                "https://nohze.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# # Social Profiles
+# twitter_username:   twitter_username
+# instagram_username: instagram_username
+# facebook_username:  facebook_username
+# linkedin_username:  linkedin_username
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# 블로그 disqus shortname
+disqus:
+  shortname: nohze-com
