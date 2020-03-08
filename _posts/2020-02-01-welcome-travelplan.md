@@ -6,7 +6,7 @@ date: 2019-02-01 11:30:00 +09:00
 feature: '/img/posts/001/welcome_thumbnail'
 background: '/img/posts/001/welcome_background'
 categories:
-  - welcome
+  - peru
 tags:
   - 여행계획
   - 여행일정짜기
