@@ -2,7 +2,7 @@
 layout: post
 permalink: /welcome-travelplan/
 title: '플랜맨과 자유영혼의 여행이야기'
-date: 2019-02-01 11:30:00 +09:00
+date: 2020-02-01 11:30:00 +09:00
 feature: '/img/posts/001/welcome_thumbnail'
 background: '/img/posts/001/welcome_background'
 categories:
