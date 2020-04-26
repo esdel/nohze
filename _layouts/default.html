@@ -16,6 +16,33 @@
   <!-- mailchimp code -->
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us8.list-manage.com","uuid":"907b725f631a6eccfeb91e5aa","lid":"a29abff9fd","uniqueMethods":true}) })</script>
 <!-- mailchimp code end -->
+<!-- facebook chatbot start -->
+<!-- Load Facebook SDK for JavaScript -->
+      <div id="fb-root"></div>
+      <script>
+        window.fbAsyncInit = function() {
+          FB.init({
+            xfbml            : true,
+            version          : 'v6.0'
+          });
+        };
+
+        (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/ko_KR/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+
+      <!-- Your customer chat code -->
+      <div class="fb-customerchat"
+        attribution=setup_tool
+        page_id="110605500532937"
+  logged_in_greeting="안녕하세요! 방문해주셔서 감사합니다."
+  logged_out_greeting="안녕하세요! 방문해주셔서 감사합니다.">
+      </div>
+<!-- facebook chatbot end -->
 </body>
 
 </html>
