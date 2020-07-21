@@ -1,7 +1,13 @@
 ---
 layout: default
 ---
-
+<script type="text/javascript">
+  dataLayer.push({
+    'event' : 'ViewContent',
+    'CID':content_id,
+    'ContentTitle':title
+  });
+</script>
 <!-- Page Header -->
 {% if page.background %}
   <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
