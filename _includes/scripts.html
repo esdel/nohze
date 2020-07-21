@@ -82,13 +82,3 @@
     });
   </script>
 {% endif %}
-<!-- viewcontent event -->
-<script type="text/javascript">
-    $('#post-content').load(function() {
-      dataLayer.push({
-      'event': 'ViewContent',
-      'CID': content_id,
-      'ContentTitle': title
-      });
-    });
-</script>
