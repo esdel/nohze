@@ -3,8 +3,8 @@ layout: post
 permalink: /mkt/gtm04_GTM_Facebook/
 title: '구글 태그매니저로 페이스북 픽셀 설치하기'
 date: 2020-08-11 20:30:00 +09:00
-feature: '/img/posts/012/mkt_gtm04_thumbnail'
-background: '/img/posts/012/mkt_gtm04_background'
+feature: '/img/posts/012/mkt_gtm04_thumbnail.jpg'
+background: '/img/posts/012/mkt_gtm04_background.jpg'
 categories:
   - mkt
 tags:

@@ -3,8 +3,8 @@ layout: post
 permalink: /peru01_schedule/
 title: '뜻밖의 신혼여행지, 페루!'
 date: 2020-02-09 13:30:00 +09:00
-feature: '/img/posts/002/peru01_thumbnail'
-background: '/img/posts/002/peru01_background'
+feature: '/img/posts/002/peru01_thumbnail.jpg'
+background: '/img/posts/002/peru01_background.jpg'
 categories:
   - peru
 tags:

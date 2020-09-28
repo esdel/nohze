@@ -3,8 +3,8 @@ layout: post
 permalink: /mkt/gtm03_GAInstall/
 title: '구글 태그매니저로 GA 설치하기'
 date: 2020-07-08 13:30:00 +09:00
-feature: '/img/posts/011/mkt_gtm03_thumbnail'
-background: '/img/posts/011/mkt_gtm03_background'
+feature: '/img/posts/011/mkt_gtm03_thumbnail.jpg'
+background: '/img/posts/011/mkt_gtm03_background.jpg'
 categories:
   - mkt
 tags:

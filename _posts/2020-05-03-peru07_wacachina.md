@@ -3,8 +3,8 @@ layout: post
 permalink: /peru07_Huacachina/
 title: '와카치나(Huacachina) 제대로 즐기는 방법'
 date: 2020-05-03 13:30:00 +09:00
-feature: '/img/posts/008/peru07_thumbnail'
-background: '/img/posts/008/peru07_background'
+feature: '/img/posts/008/peru07_thumbnail.jpg'
+background: '/img/posts/008/peru07_background.jpg'
 categories:
   - peru
 tags:

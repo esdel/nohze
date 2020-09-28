@@ -3,8 +3,8 @@ layout: post
 permalink: /peru03_airline/
 title: '페루 가는 길, 30시간의 비행'
 date: 2020-03-01 13:30:00 +09:00
-feature: '/img/posts/004/peru03_thumbnail'
-background: '/img/posts/004/peru03_background'
+feature: '/img/posts/004/peru03_thumbnail.jpg'
+background: '/img/posts/004/peru03_background.jpg'
 categories:
   - peru
 tags:

@@ -3,8 +3,8 @@ layout: post
 permalink: /mkt/fb01_FacebookUTM/
 title: 'URL 하나로 페이스북, 인스타그램 광고성과 자동 구분하기'
 date: 2020-09-25 13:30:00 +09:00
-feature: '/img/posts/013/mkt_gtm05_thumbnail'
-background: '/img/posts/013/mkt_gtm05_background'
+feature: '/img/posts/013/mkt_gtm05_thumbnail.jpg'
+background: '/img/posts/013/mkt_gtm05_background.jpg'
 categories:
   - mkt
 tags:

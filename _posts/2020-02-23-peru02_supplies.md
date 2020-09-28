@@ -3,8 +3,8 @@ layout: post
 permalink: /peru02_supplies/
 title: '페루 여행에 꼭 필요한 준비물'
 date: 2020-02-23 13:30:00 +09:00
-feature: '/img/posts/003/peru02_thumbnail'
-background: '/img/posts/003/peru02_background'
+feature: '/img/posts/003/peru02_thumbnail.jpg'
+background: '/img/posts/003/peru02_background.jpg'
 categories:
   - peru
 tags:

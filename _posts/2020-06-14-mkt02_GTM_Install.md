@@ -3,8 +3,8 @@ layout: post
 permalink: /mkt/gtm02_GTMInstall/
 title: '웹사이트에 구글 태그 매니저(GTM) 설치하기'
 date: 2020-06-14 13:30:00 +09:00
-feature: '/img/posts/010/mkt_gtm02_thumbnail'
-background: '/img/posts/010/mkt_gtm02_background'
+feature: '/img/posts/010/mkt_gtm02_thumbnail.jpg'
+background: '/img/posts/010/mkt_gtm02_background.jpg'
 categories:
   - mkt
 tags:
